@@ -1,0 +1,25 @@
+.promotion {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red
+}
+.myimage {
+    float: left;
+    margin: 20px;
+    border-style: outset
+}
+#hinhanh {
+    float: left;
+    width: 33%;
+    margin-top: 10px
+}
+#gia {
+    color: blue;
+    font-size: 20px;
+    float: left;
+}
+#chucnang {
+    float: left;
+    color: blueviolet;
+    width: 60%;
+    
+}
